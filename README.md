@@ -1,82 +1,76 @@
-<h1 align="center"><b>Hola, Soy Cristian Villalobos</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Cristian Villalobos</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+perfil..!+;Desarrollador+Full+Stack+Autodidacta;Apasionado+por+la+Tecnolog%C3%ADa+y+el+Ciclismo;Siempre+buscando+aprender+y+mejorar!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=80&lines=Bienvenido+a+mi+perfil+de+GitHub;Estudiante+de+TI+y+Desarrollador+Autodidacta;Apasionado+por+la+tecnología+y+el+aprendizaje+continuo">
+  </a>
 </p>
-
-<br>
-
-## Sobre mí
-<br>
-
-- **Desarrollador Full Stack** autodidacta.
-- Actualmente aprendiendo **React, TypeScript y Next.js**.
-- Entusiasta del **ciclismo de montaña** y los **desafíos técnicos**.
-- Visita mi [sitio web personal](https://crislobos.com) o mi [CV en LinkedIn](https://www.linkedin.com/in/cris-villalobos/).
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades</b>
-<br>
+## 🧠 Sobre mí
 
-<p align="center">
+Soy un estudiante de Tecnologías de la Información con una gran pasión por la **educación continua** y la **resolución de problemas tecnológicos**. Cuento con una sólida base en informática general, lo que me permite abordar desafíos desde una perspectiva integral.
 
-- **Lenguajes**:
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Creo firmemente que **aprender constantemente** y **usar la informática como herramienta para resolver problemas** son habilidades clave en este mundo digital.
 
-<br>
-- **Front-End**:
-   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Astro](https://img.shields.io/badge/Astro-%23FF5A1F.svg?style=for-the-badge&logo=astro&logoColor=white)
-   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br>
-- **Despliegue**:
-    ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-- **Herramientas**:
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-</p>
-
-<br>
-<br>
+- 🌱 Actualmente aprendiendo: **React, TypeScript y Next.js**
+- ⚙️ Autodidacta en desarrollo **Full Stack**
+- 🚵‍♂️ Me encanta el **ciclismo de montaña** y los retos técnicos
+- 🌐 Web personal: [crislobos.com](https://crislobos.com)
+- 📄 Mi CV: [LinkedIn](https://www.linkedin.com/in/cris-villalobos/)
+- 📫 Contacto: cristianvillalobosvv@gmail.com
 
 ---
 
-## <b>¡Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-<br>
-<div align='left'>
+## ⚙️ Habilidades Técnicas
 
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/cris-villalobos/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:-cris--villalobos-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+### 🖥️ Lenguajes de Programación
 
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<li>
-<a href="mailto:Cristianvillalobosvv@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:-Cristianvillalobosvv-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+### 🎨 Desarrollo Front-End
+
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/Astro-%23FF5A1F?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🚀 Despliegue y Hosting
+
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7?style=for-the-badge&logo=github&logoColor=white)
+
+### 🛠️ Herramientas y Tecnologías
+
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧩 Extras
+
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 🤝 ¡Conectemos!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cris-villalobos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Cris--Villalobos-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="mailto:cristianvillalobosvv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-cristianvillalobosvv-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
